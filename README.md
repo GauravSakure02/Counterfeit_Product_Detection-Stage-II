@@ -3,11 +3,13 @@
 *SYSTEM REQUIREMENTS* -
 
 **Hardware Requirements**
+
 • Processor: - Intel Pentium 4 or above
 • Ram: - 2 GB or above
 • Hard Disk: - 500GB
 
 **Software Requirements**
+
 • Front End
 1. Operating System: -Windows XP/7/8
 2. Programming Language: JAVA/J2EE/
