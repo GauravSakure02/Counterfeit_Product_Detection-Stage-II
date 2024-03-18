@@ -3,9 +3,11 @@
 
 **Hardware Requirements**
 
-• Processor: - Intel Pentium 4 or above \n
-• Ram: - 2 GB or above \n
-• Hard Disk: - 500GB \n
+• Processor: - Intel Pentium 4 or above 
+
+• Ram: - 2 GB or above 
+
+• Hard Disk: - 500GB 
 
 **Software Requirements**
 
