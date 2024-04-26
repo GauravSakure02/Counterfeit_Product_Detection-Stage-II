@@ -1,7 +1,7 @@
 # Counterfeit_Product_Detection
 **SYSTEM REQUIREMENTS** -
 
-**Hardware Requirements**
+**Hardware Requirements** 
 
 • Processor: - Intel Pentium 4 or above 
 
