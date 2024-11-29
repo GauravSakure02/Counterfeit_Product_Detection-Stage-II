@@ -1,6 +1,6 @@
 # Counterfeit_Product_Detection
 
-**SYSTEM REQUIREMENTS** -
+**-SYSTEM REQUIREMENTS** -
 
 **Hardware Requirements** 
 
